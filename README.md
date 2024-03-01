@@ -10,7 +10,6 @@
 
 <p align="left"> 
 <a href="https://www.credly.com/badges/7e4c3a01-7138-4e31-8a44-eef7ffcb0bc8/public_url" target="_blank" rel="noreferrer"> <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Cloud-Practitioner_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png" alt="AWS CP" width="80" height="80"/></a>
-
 <a href="https://www.hackerrank.com/certificates/f0a17ded1577" target="_blank" rel="noreferrer"> <img src="img/python_gold_hh.png" alt="Python Gold HackerRank" width="80" height="80"/></a>
 
 </p>
