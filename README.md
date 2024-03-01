@@ -9,14 +9,16 @@
 </p>
 
 <p align="left"> 
-    <a href="https://www.credly.com/badges/7e4c3a01-7138-4e31-8a44-eef7ffcb0bc8/public_url" target="_blank" rel="noreferrer"> <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Cloud-Practitioner_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png" alt="AWS CP" width="80" height="80"/>
+    <a href="https://www.credly.com/badges/7e4c3a01-7138-4e31-8a44-eef7ffcb0bc8/public_url" target="_blank" rel="noreferrer"> <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Cloud-Practitioner_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png" alt="AWS CP" width="80" height="80"/></a>
 
-    <a href="https://www.credly.com/badges/7e4c3a01-7138-4e31-8a44-eef7ffcb0bc8/public_url" target="_blank" rel="noreferrer"> <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Cloud-Practitioner_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png" alt="AWS CP" width="80" height="80"/>
+    <a href="https://www.hackerrank.com/certificates/f0a17ded1577" target="_blank" rel="noreferrer"> <img src="img/python_gold_hh.png" alt="Python Gold HackerRank" width="80" height="80"/></a>
 
-    <iframe width="80" height="80" seamless frameborder="0" scrolling="no" src="https://www.hackerrank.com/certificates/iframe/f0a17ded1577"></iframe>
 </p>
 
 <!--
+    <iframe width="80" height="80" seamless frameborder="0" scrolling="no" src="https://www.hackerrank.com/certificates/iframe/f0a17ded1577"></iframe>
+
+
 **pvictorc/pvictorc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -24,7 +26,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with Cloud DevOps, DevOps Engineer, Data Engineer
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
